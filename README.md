@@ -51,6 +51,7 @@ We also added the additional features like taking the input data location from u
 [feature_collection.js](https://github.com/Spritan/AASHROY/blob/main/feature_collection.js) :Data set for ml classified map i.e to be imported in google earth engine
  
 [ml_map_gee.js](https://github.com/Spritan/AASHROY/blob/main/ml_map_gee.js) : machine learning code i.e used in google earth engine editor to predict the homeless people expected area
+[github_repo_turing_crypt](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/github_repo_turing_crypt.txt) : github repo link
 
 
 
