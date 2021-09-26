@@ -52,6 +52,8 @@ We also added the additional features like taking the input data location from u
  
 [ml_map_gee.js](https://github.com/Spritan/AASHROY/blob/main/ml_map_gee.js) : machine learning code i.e used in google earth engine editor to predict the homeless people expected area
 
+[github_repo_turing_crypt](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/github_repo_turing_crypt.txt) : github repo link
+
 
 
 
@@ -95,13 +97,11 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
   
 ## Authors
 
-- [@KUNJAL SARMA](https://github.com/KunjalSarma)
 
+- [@KUNJAL SARMA](https://github.com/KunjalSarma)
 - [@SAMARJIT SHARMA](https://github.com/UntrainedAnimal)
-- [@RUPANGKAN KALITA](https://github.com/Rupangkan/)
 - [@PROYAS PABAN SARMA BORAH](https://github.com/Spritan)
 - [@BHUPALI SARMA](https://github.com/bhupalisarma)
-- [@SOUMYA SHOME](https://github.com/ABexcalibur)
 
   
 ## Contributing
