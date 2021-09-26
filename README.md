@@ -19,7 +19,7 @@ We also added the additional features like taking the input data location from u
 
 ## FILE  DESCRIPTION :
 
-[Mumbai_details.html] (https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/Mumbai_details.html): It shows the details of the slums or homeless people using various maps including Google map, Satellite map and Machine Learning classified map.
+[Mumbai_details.html](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/Mumbai_details.html): It shows the details of the slums or homeless people using various maps including Google map, Satellite map and Machine Learning classified map.
  
 [Support-us.html](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/Support-us.html) :It’s a page that allows the user to donate a sum for homeless people by using a QR code.
  
