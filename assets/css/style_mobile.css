@@ -1,0 +1,27 @@
+#myframe{
+    border:0; width: 83%; ;
+
+}
+@media screen and (max-width: 992px) {
+    .mob{
+        border-radius: 1px;
+        border-color: #000000;
+        background-color: #f0903694; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+    }
+}
+@media screen and (min-width: 993px) {
+    .mob{
+        display: none;
+    }
+    #myframe{
+        width: 100%;
+    }
+
+}
