@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="login.css" />
+  </head>
+  <body>
+    <div class="card">
+      <h2>Welcome back</h2>
+      <div class="inputs">
+        <label>Username</label>
+        <input id = "userInput" type="text" />
+      </div>
+      <div class="inputs">
+        <label>Password</label>
+        <input id = "passInput" type="password" />
+      </div>
+      <a href="./signup2.html" class="text-right"
+        >Don't have an account?</a
+      >
+      <button id = "login" class="btn-login" onclick="login()" >Log In</button>
+    
+      </div>
+      <script>
+        const button = document.getElementById('login');
+  
+    
+        if(button){
+            button.addEventListener('click', () => login());
+        }else{
+            console.log("Not found")
+        }
+  
+        async function login(){
+            var userInput = document.getElementById('userInput').value
+            var passInput = document.getElementById('passInput').value
+            // var emailInput = document.getElementById('emailInput').value 
+  
+              // console.log(passInput)
+              // console.log(userInput)
+              // console.log(emailInput)
+            
+              // return
+  
+                try {
+                    let data = {userid: userInput,  password: passInput,};
+                    const response = await fetch('http://localhost:5000/login', {
+                        method: 'POST',
+                        body: JSON.stringify(data),
+                        headers: {
+                            'Content-Type': 'application/json'
+                        }
+                    });
+                    document.getElementById('userInput').value = ""
+                    document.getElementById('passInput').value = ""
+                    // document.getElementById('emailInput').value = ""
+                    // await console.log("User Logged In")
+                    // localStorage.setItem('jwt', response.token)
+                    if(response.status==200){
+                      window.location.href = "./index-logout.html"
+                    }
+                    console.log(response);
+                } catch (error) {
+                    console.log('Login error')
+                    console.log(error);
+                }
+            
+        }
+    </script>
+    </div>
+  </body>
+</html>

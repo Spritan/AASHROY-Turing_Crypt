@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "open": "^8.2.1"
+  }
+}
