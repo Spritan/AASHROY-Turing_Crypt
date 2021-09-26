@@ -19,38 +19,37 @@ We also added the additional features like taking the input data location from u
 
 ## FILE  DESCRIPTION :
 
-[Mumbai_details.html](https://github.com/Spritan/AASHROY/blob/main/Mumbai_details.html): It shows the details of the slums or homeless people using various maps including Google map, Satellite map and Machine Learning classified map.
+[Mumbai_details.html] (https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/Mumbai_details.html): It shows the details of the slums or homeless people using various maps including Google map, Satellite map and Machine Learning classified map.
  
-[Support-us.html](https://github.com/Spritan/AASHROY/blob/main/Support-us.html) :It’s a page that allows the user to donate a sum for homeless people by using a QR code.
+[Support-us.html](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/Support-us.html) :It’s a page that allows the user to donate a sum for homeless people by using a QR code.
  
-[contactauthorities.html](https://github.com/Spritan/AASHROY/blob/main/contact%20authorities.html) :It allows the user to contact the managing Authorities.
+[contactauthorities.html](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/contactauthorities.html) :It allows the user to contact the managing Authorities.
  
-[contactNGO.html](https://github.com/Spritan/AASHROY/blob/main/contactNGO.html):It allows the user to contact the near by NGO’s of the particular location.
+[contactNGO.html](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/contactNGO.html):It allows the user to contact the near by NGO’s of the particular location.
  
-[index.html](https://github.com/Spritan/AASHROY/blob/main/index.html) :Home page.
+[index.html] (https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/index.html) :Home page.
  
-[contribute.html](https://github.com/Spritan/AASHROY/blob/main/contribute.html) : It allows the user to contribute the location of homeless people that would be stored in a database.
+[contribute.html](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/contribute.html) : It allows the user to contribute the location of homeless people that would be stored in a database.
  
-[file_report.html](https://github.com/Spritan/AASHROY/blob/main/file_report.html) : It allows the user to contribute any deformities in the location of homeless people that are shown in the map . It also allows the user to file any deformities like kidnapping ,smuggling ,rape cases for that location . 
+[file_report.html](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/file_report.html) : It allows the user to contribute any deformities in the location of homeless people that are shown in the map . It also allows the user to file any deformities like kidnapping ,smuggling ,rape cases for that location . 
  
-[index-logout.html](https://github.com/Spritan/AASHROY/blob/main/index-logout.html) : It allows the user to end the season on the website.
+[index-logout.html](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/index-logout.html) : It allows the user to end the season on the website.
  
-[Login.css](https://github.com/Spritan/AASHROY/blob/main/login.css): Stylesheet for login page.
+[Login.css](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/login.css): Stylesheet for login page.
  
-[login.html](https://github.com/Spritan/AASHROY/blob/main/login.html) : Login page
+[login.html](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/login.html) : Login page
  
-[mission.html](https://github.com/Spritan/AASHROY/blob/main/mission.html) : Our mission through the project.
+[mission.html](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/mission.html) : Our mission through the project.
  
-[signup2.css](https://github.com/Spritan/AASHROY/blob/main/signup2.css) : Stylesheet for signup page.
+[signup2.css](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/signup2.css) : Stylesheet for signup page.
  
-[signup2.html](https://github.com/Spritan/AASHROY/blob/main/signup2.html) : signup page.
+[signup2.html](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/signup2.html) : signup page.
  
-[package.json](https://github.com/Spritan/AASHROY/blob/main/package.json) :Stores important metadata about the project.
+[package.json](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/package.json) :Stores important metadata about the project.
  
+[feature_collection.js](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/feature_collection.js) :Data set for ml classified map i.e to be imported in google earth engine
  
-[feature_collection.js](https://github.com/Spritan/AASHROY/blob/main/feature_collection.js) :Data set for ml classified map i.e to be imported in google earth engine
- 
-[ml_map_gee.js](https://github.com/Spritan/AASHROY/blob/main/ml_map_gee.js) : machine learning code i.e used in google earth engine editor to predict the homeless people expected area
+[ml_map_gee.js](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/ml_map_gee.js) : machine learning code i.e used in google earth engine editor to predict the homeless people expected area
 
 [github_repo_turing_crypt](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/github_repo_turing_crypt.txt) : github repo link
 
