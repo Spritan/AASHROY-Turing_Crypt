@@ -27,7 +27,7 @@ We also added the additional features like taking the input data location from u
  
 [contactNGO.html](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/contactNGO.html):It allows the user to contact the near by NGO’s of the particular location.
  
-[index.html] (https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/index.html) :Home page.
+[index.html](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/index.html) :Home page.
  
 [contribute.html](https://github.com/Spritan/AASHROY-Turing_Crypt/blob/main/contribute.html) : It allows the user to contribute the location of homeless people that would be stored in a database.
  
