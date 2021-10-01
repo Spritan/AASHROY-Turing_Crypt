@@ -62,6 +62,9 @@
                   document.getElementById('passInput').value = ""
                   document.getElementById('emailInput').value = ""
                   // await console.log("User added")
+                  if(response.status==400){
+                      alert("Incorrect credentials")
+                    }
                   if(response.status==200){
                       window.location.href = "./index-logout.html"
                   }

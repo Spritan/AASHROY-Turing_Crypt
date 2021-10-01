@@ -55,6 +55,10 @@
                     // document.getElementById('emailInput').value = ""
                     // await console.log("User Logged In")
                     // localStorage.setItem('jwt', response.token)
+                    if(response.status==400){
+                      alert("Incorrect credentials")
+                      }
+
                     if(response.status==200){
                       window.location.href = "./index-logout.html"
                     }
