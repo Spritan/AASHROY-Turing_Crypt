@@ -102,7 +102,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 - [@KUNJAL SARMA](https://github.com/KunjalSarma)
 - [@SAMARJIT SHARMA](https://github.com/UntrainedAnimal)
-- [@PROYAS PABAN SARMA BORAH](https://github.com/Spritan)
+- [@PROYASH PABAN SARMA BORAH](https://github.com/Spritan)
 - [@BHUPALI SARMA](https://github.com/bhupalisarma)
 
   
